@@ -1,0 +1,67 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Alike+Angular|Asul|Concert+One|Eczar|Fruktur|Kavoon|Mystery+Quest|Neuton|Space+Mono|Tillana|Work+Sans');
+</style>
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  margin:   0 auto;
+  max-width: 600px;
+  background:#688ED4;
+}
+div {
+  height: 300px;
+  background-size: cover;
+  position: relative;
+  margin: 20px 15px 20px 15px;
+  border-radius: 20px;
+}
+h1 {
+ font-family: 'Mystery Quest', cursive;;
+  text-align: center;
+  font-size: 60px;
+  color: #192F58;
+  margin: 15px 15px 15px 15px;
+}
+h2 {
+  text-align: center;
+ font-family: 'Kavoon', cursive;
+ font-size: 2em;
+  color: #192F58;
+  margin: 10px 10px 10px 10px;
+}
+
+.artworkOne {
+  background-image: url(https://i.imgur.com/uERsz6k.png);
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+}
+
+.artworkTwo {
+  background-image: url(https://i.imgur.com/wCArUFW.jpg);
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+}
+
+.artworkThree {
+  background-image: url(https://i.imgur.com/D5r0ZUK.jpg);
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+}
+
+.artworkFour {
+  background-image: url(https://i.imgur.com/RqZSWkE.jpg);
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+}
